@@ -3,7 +3,7 @@
 ## Project Abstract
 Use sensors to gather data on Temples Aquaponics systems then send that data to a website or mobile application to help monitor the systems. Aquaponics systems need to be monitored heavily to make sure planets can grow optimally and the systems continues to run smoothly. This can take significant human effort. Water levels, water temperature, ph levels, humidity levels and feeding the fish living in the water tank all need to be monitored and adjusted to keep the system running optimally. Placing various sensors throughout the system and giving the caretakers access to this data through a website or mobile application could increase the efficiency of the system and lower the level of human effort required for the systems upkeep.
 
-![UML Diagram](Aquaponics Automation.png)
+
 Format: ![Alt Text](https://github.com/nanltech/AquaponicsAutomationPropsoal/blob/master/Aquaponics%20Automation.png)
 
 
