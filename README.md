@@ -3,7 +3,8 @@
 ## Project Abstract
 Use sensors to gather data on Temples Aquaponics systems then send that data to a website or mobile application to help monitor the systems. Aquaponics systems need to be monitored heavily to make sure planets can grow optimally and the systems continues to run smoothly. This can take significant human effort. Water levels, water temperature, ph levels, humidity levels and feeding the fish living in the water tank all need to be monitored and adjusted to keep the system running optimally. Placing various sensors throughout the system and giving the caretakers access to this data through a website or mobile application could increase the efficiency of the system and lower the level of human effort required for the systems upkeep.
 
-![Use Case Image](StellaOwl_PayStation.png)
+![Use Case Image](Aquaponics Automation.png)
+
 
 ## Project Relevance
 This project meets all four goals for this class. Installing sensors might not be the most difficult task but building the website or mobile application to share this information would take a great amount of work. The team would have to use UML diagrams to map out how the whole system would work. We would have to build the system which would require version control, testing, and the ability to track issues which are bound to arise. Since we would be building the system from scratch, I believe this project would force use to use all the concepts we have learned in class thus far.
